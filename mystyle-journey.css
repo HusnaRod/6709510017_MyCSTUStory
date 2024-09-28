@@ -1,0 +1,61 @@
+body{
+    background-color: rgba(5, 5, 79, 0.899);
+    color: aliceblue;
+}
+main{
+    background-color: skyblue;
+    text-align: left;
+    width: 35%;
+    height: 74vh;
+    float: left;
+    position: static;
+    clear: left;
+}
+h1{
+    font-family: cursive;
+    background-color: rgb(28, 139, 183);
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: larger;
+}
+.link{
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(28, 139, 183);
+}
+.name h1{
+    text-align: left;
+    font-family: cursive;
+    background-color: rgb(28, 139, 183);
+    width: fit-content;
+}
+hr{
+    float: left;
+    margin-top: -5px;
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+}
+footer {
+        background-color:skyblue;
+        text-align: center;
+        clear: both;
+}
+.feeling{
+    background-color: skyblue;
+    text-align: left;
+    width: 40%;
+    height: 100vh;
+    float: right;
+    position: static;
+    clear: right;
+    margin-top: -48%;
+}
+.feeling h1{
+    text-align: center;
+    color: black;
+    float: center;
+}
